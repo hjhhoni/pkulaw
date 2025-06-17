@@ -9,7 +9,7 @@ icon_path = os.path.join(current_dir, 'icon.ico')
 
 # 打包命令
 PyInstaller.__main__.run([
-    'd:\\副业\\项目\\爬北大法典\\北大法典爬虫GUI.py',  # 主程序文件
+    '.\\北大法典爬虫GUI.py',  # 主程序文件
     '--name=北大法宝爬虫',  # 生成的EXE文件名
     '--onefile',  # 打包成单个EXE文件
     '--windowed',  # 使用窗口模式，不显示控制台
