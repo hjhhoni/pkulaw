@@ -25,7 +25,7 @@
 ### 界面预览
 <img src="https://img.alicdn.com/bao/uploaded/i1/O1CN015SZXmB1GEj8s9JXu4_!!4611686018427383567-53-fleamarket.heic_Q90.jpg" alt="界面预览"></img>
 ### 演示视频
-
+[![视频封面图片链接](https://img.alicdn.com/bao/uploaded/i1/O1CN015SZXmB1GEj8s9JXu4_!!4611686018427383567-53-fleamarket.heic_Q90.jpg)](https://xianyu-video.alicdn.com/aus/xianyu_item/1811478524/ff7f208d127f4ff38a9f71ed1f003b4e.mp4)
 Gitee无法引入外链视频，请访问[闲鱼商品链接](https://www.goofish.com/item?spm=a21ybx.personal.feeds.2.5d1e6ac2lRHgaw&id=945035916410&categoryId=50023914)查看演示视频。
 
 ### 环境准备
