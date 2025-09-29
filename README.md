@@ -44,7 +44,7 @@
 ### 界面预览
 <img src="https://img.alicdn.com/bao/uploaded/i1/O1CN015SZXmB1GEj8s9JXu4_!!4611686018427383567-53-fleamarket.heic_Q90.jpg" alt="界面预览"></img>
 ### 演示视频
-
+!(演示视频)(https://github.com/hjhhoni/pkulaw/blob/main/tutorial.mp4)
 
 ### 环境准备
 
@@ -93,5 +93,6 @@
 ## 免责声明
 
 本工具仅供学习和研究使用，请勿用于任何商业用途。使用本工具时请遵守相关法律法规和网站的使用条款，由使用不当造成的任何问题，开发者不承担任何责任。
+
 
 
