@@ -2,6 +2,7 @@
 
 ## 更新
 - 2025年8月8日：附件下载版本发布（结决非IP登录下打开新标签页丢失登录信息的问题以及支持附件同名下载）
+- 2025年9月29日：更新最新北大法宝爬虫不下载附件版GUI版
 
 
 ## 项目简介
@@ -35,7 +36,7 @@
   python build_exe.py
   ```
 - 打包完成后，在dist文件夹中即可找到可执行文件
-- 切换版本支付改build_exe.py的绝对路径即可，改成对应版本的py文件的绝对路径
+- 切换版本改build_exe.py的绝对路径即可，改成对应版本的py文件的绝对路径
 
 
 
@@ -43,14 +44,7 @@
 ### 界面预览
 <img src="https://img.alicdn.com/bao/uploaded/i1/O1CN015SZXmB1GEj8s9JXu4_!!4611686018427383567-53-fleamarket.heic_Q90.jpg" alt="界面预览"></img>
 ### 演示视频
-<iframe src="https://xianyu-video.alicdn.com/aus/xianyu_item/1811478524/ff7f208d127f4ff38a9f71ed1f003b4e.mp4" 
-        scrolling="no" 
-        border="0" 
-        frameborder="no" 
-        framespacing="0" 
-        allowfullscreen="true"> 
-</iframe>
-Gitee无法引入外链视频，请访问[闲鱼商品链接](https://www.goofish.com/item?spm=a21ybx.personal.feeds.2.5d1e6ac2lRHgaw&id=945035916410&categoryId=50023914)查看演示视频。
+
 
 ### 环境准备
 
@@ -99,4 +93,5 @@ Gitee无法引入外链视频，请访问[闲鱼商品链接](https://www.goofis
 ## 免责声明
 
 本工具仅供学习和研究使用，请勿用于任何商业用途。使用本工具时请遵守相关法律法规和网站的使用条款，由使用不当造成的任何问题，开发者不承担任何责任。
+
 
